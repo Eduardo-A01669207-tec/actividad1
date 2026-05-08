@@ -1,4 +1,4 @@
-# paint.py modificado
+# paint.py modified
 How to run the game: python3 pacman.py
 
 List of changes for this file:
